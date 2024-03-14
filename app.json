@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Clock-cure",
+    "slug": "Clock-cure",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
